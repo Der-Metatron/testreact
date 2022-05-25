@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Was ist React ?",
+    "optionA": "Ist eine Stadt",
+    "optionB": "Ist ein Auto",
+    "optionC": "React ist ein JavaScript-Framework",
+    "optionD": "KEINE AHNUNG",
+    "answer": "React ist ein JavaScript-Framework"
+  },
+
+  {
+    "question": "Was ist React-Dom ?",
+    "optionA": "Ist ein Framework",
+    "optionB": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander",
+    "optionC": "Ist eine Kirche",
+    "optionD": "KEINE AHNUNG",
+    "answer": "vergleicht das vorherige und jetztige Element und dessen Kindelemente miteinander"
+  },
+
+  {
+    "question": "Was ist Javascript ?",
+    "optionA": "Ist eine Scriptsprache",
+    "optionB": "Ist ein Pferd",
+    "optionC": "Ist ein tool von erstellen von webseiten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist eine Scriptsprache"
+  },
+
+  {
+    "question": "Was sind Hooks ?",
+    "optionA": "damit lassen sich state und andere react future benutzen",
+    "optionB": "eine sprache zum erstellen einer datenbankstrukturen",
+    "optionC": "ein programm zum erstellen von Designe",
+    "optionD": "KEINE AHNUNG",
+    "answer": "damit lassen sich state und andere react future benutzen"
+  },
+
+  {
+    "question": "Was ist HTML ?",
+    "optionA": "Ist eine Sekte",
+    "optionB": "Ist eine sprache zum designen von webseiten",
+    "optionC": "Hypertext Markup Language",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Hypertext Markup Language"
+  },
+
+  {
+    "question": "Was ist Css ?",
+    "optionA": "Ermöglicht das designe von elektronischen Elementen",
+    "optionB": "programm zum malen",
+    "optionC": "eine sprache zum erstellen von Tabellen",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ermöglicht das designe von elektronischen Elementen"
+  },
+
+  {
+    "question": "Was ist MongoDb ?",
+    "optionA": "Ist ein NoSQL Datenbankmanagementsystem",
+    "optionB": "Ist ein SQL Datenbankmanagementsystem",
+    "optionC": "Ist eine Programiersprache",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist ein NoSQL Datenbankmanagementsystem"
+  },
+
+  {
+    "question": "Was ist LowDB ?",
+    "optionA": "Ist eine Große Datenbank",
+    "optionB": "Ist ein Tool zum erstellen von Programmen",
+    "optionC": "Ist eine leichtgewichtige und flexible Datenbank",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Ist eine leichtgewichtige und flexible Datenbank"
+  },
+
+  {
+    "question": "Was ist SQL ?",
+    "optionA": "Ein Framework",
+    "optionB": "Datenbanksprache zur Erstellung von Datenbankstructuren",
+    "optionC": "Ein Software Queery",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Datenbanksprache zur Erstellung von Datenbankstructuren"
+  },
+
+  {
+    "question": "Was ist Bootstrap ?",
+    "optionA": "Ist eine Datenbank",
+    "optionB": "Ist eine Programmier Sprache",
+    "optionC": "ein quelloffenes Frontend-Web-Framework zur Erstellung von Webseiten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "ein quelloffenes Frontend-Web-Framework zur Erstellung von Webseiten"
+  },
+
+  {
+    "question": "Was ist SASS ?",
+    "optionA": "Short await script",
+    "optionB": "ist eine Stylesheet-Sprache",
+    "optionC": "Eine Krankheit aus Süd Amerika",
+    "optionD": "KEINE AHNUNG",
+    "answer": "ist eine Stylesheet-Sprache"
+  },
+
+  {
+    "question": "Was ist Postman ?",
+    "optionA": "Werkzeug zum Testen von APIs",
+    "optionB": "Ein Postbote",
+    "optionC": "Ein Film über Web-Entwickler",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Werkzeug zum Testen von APIs"
+  },
+
+  {
+    "question": "Was ist eine API ?",
+    "optionA": "Android-Program-It",
+    "optionB": "Ein Browser",
+    "optionC": "Eine Schnittstelle",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Eine Schnittstelle"
+  },
+
+  {
+    "question": "Was ist Express ?",
+    "optionA": "Ein schnell Zug",
+    "optionB": "Node.js-Framework",
+    "optionC": "Zu stellung von Daten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Node.js-Framework"
+  },
+
+  {
+    "question": "Was ist nodemon ?",
+    "optionA": "CLI-Dienstprogramm",
+    "optionB": "Ein Chat Liste im Internet",
+    "optionC": "Ein Mond im äusseren Sonnensystem",
+    "optionD": "KEINE AHNUNG",
+    "answer": "CLI-Dienstprogramm"
+  }
+]
