@@ -29,7 +29,7 @@ const Home = () => (
             Sign Up
           </Link>
         </div>
-        <br></br> <p>By Serdar,Dennis und Sprotte 2022</p>
+        <br></br> <p>By Serdar,Dennis und Sprotte 20222</p>
       </section>
     </div>
   </Fragment>
