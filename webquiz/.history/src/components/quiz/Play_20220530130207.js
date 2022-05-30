@@ -242,41 +242,6 @@ class Play extends React.Component {
   };
 
   // Function for removing one option (Bugged, not working as intended)
-  handleHints = () => {
-    if (this.state.hints > 0) {
-      const options = Array.from(document.querySelectorAll(".option"));
-      let indexOfAnswer;
-
-      options.forEach((option, index) => {
-        if (
-          option.innerHTML.toLowerCase() === this.state.answer.toLowerCase()
-        ) {
-          indexOfAnswer = index;
-        }
-      });
-
-      while (true) {
-        const randomNumber = Math.round(Math.random() * 3);
-        if (
-          randomNumber !== indexOfAnswer &&
-          !this.state.previousRandomNumbers.includes(randomNumber)
-        ) {
-          options.forEach((option, index) => {
-            if (index === randomNumber) {
-              option.style.visibility = "hidden";
-              this.setState((prevState) => ({
-                hints: prevState.hints - 1,
-                previousRandomNumbers:
-                  prevState.previousRandomNumbers.concat(randomNumber),
-              }));
-            }
-          });
-          break;
-        }
-        if (this.state.previousRandomNumbers.length >= 3) break;
-      }
-    }
-  };
 
   // Function for fifty-fifty hint
   handleFiftyFifty = () => {
@@ -440,6 +405,11 @@ class Play extends React.Component {
             <p>
               <span onClick={this.handleFiftyFifty} className="lifeline">
                 Fifty-fifty: {fiftyFifty}
+              </span>
+            </p>
+            <p>
+              <span onClick={this.handleHints} className="lifeline">
+                Remove Option: {hints}
               </span>
             </p>
           </div>

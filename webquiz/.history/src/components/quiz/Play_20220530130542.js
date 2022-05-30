@@ -442,6 +442,11 @@ class Play extends React.Component {
                 Fifty-fifty: {fiftyFifty}
               </span>
             </p>
+            <p>
+              <span onClick={this.handleHints} className="lifeline">
+                Remove Option: {hints}
+              </span>
+            </p>
           </div>
           <div className="timer-container">
             <p className="timer-number">
