@@ -7,6 +7,8 @@ import QuizInstructions from "./components/quiz/QuizInstructions";
 import Play from "./components/quiz/Play";
 import QuizSummary from "./components/quiz/QuizSummary";
 
+const port = process.env.PORT || 5000;
+
 function App() {
   return (
     <div className="App">
