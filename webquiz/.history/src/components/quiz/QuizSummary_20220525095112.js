@@ -40,7 +40,7 @@ class QuizSummary extends Component {
     } else if (userScore > 90 && userScore <= 100) {
       remark = "Genius at work!";
     }
-    if (state !== undefined) {
+    if (state != undefined) {
       stats = (
         <Fragment>
           <div className="summary-container">

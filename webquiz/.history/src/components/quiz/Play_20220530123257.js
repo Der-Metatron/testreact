@@ -123,7 +123,7 @@ class Play extends React.Component {
   // Funtion handler for the previous button
   handlePreviousButtonClick = () => {
     this.playButtonSound();
-    if (this.state.nextQuestion !== undefined) {
+    if (this.state.nextQuestion != undefined) {
       this.setState(
         (prevState) => ({
           currentQuestionIndex: prevState.currentQuestionIndex - 1,

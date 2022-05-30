@@ -2,13 +2,12 @@ import React, { Fragment } from "react";
 import { Helmet } from "react-helmet";
 import { Link } from "react-router-dom";
 
-/* 
-export const Home = () => {;
+export const Home = () => {};
 const [users, setUsers] = useState([]);
 
 useEffect(() => {
   axios
-    .get("http://localhost:3000") 
+    .get("http://localhost:3000") /* Kein slash */
     .then((response) => {
       setUsers(response.data);
       console.log(response.data);
@@ -17,7 +16,7 @@ useEffect(() => {
       console.log("error");
     });
 }, []);
- */
+
 const Home = () => (
   // For the main page
   <Fragment>
