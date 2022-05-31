@@ -1,4 +1,4 @@
-# QUIT-APP
+# QUIZ-APP
 React- Quiz App zum Lernen für Webentwickler.
 Frontend.
 
