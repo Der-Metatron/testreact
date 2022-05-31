@@ -418,7 +418,7 @@ class Play extends React.Component {
       currentQuestion,
       currentQuestionIndex,
       numberOfQuestions,
-
+      hints,
       fiftyFifty,
       time,
     } = this.state;
