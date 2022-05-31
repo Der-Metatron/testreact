@@ -152,29 +152,20 @@
   },
 
   {
-    "question": "Was ist das richtige HTML-Tag zum Einfügen eines Zeilenumbruchs?",
-    "optionA": "Ist <Lb>",
-    "optionB": "Ist <br>",
-    "optionC": "Break",
-    "optionD": "Keine Ahnung",
-    "answer": "Ist <br>"
+    "question": "Was ist Express ?",
+    "optionA": "Ein schnell Zug",
+    "optionB": "Node.js-Framework",
+    "optionC": "Zu stellung von Daten",
+    "optionD": "KEINE AHNUNG",
+    "answer": "Node.js-Framework"
   },
 
   {
-    "question": "Was ist Webhosting?",
-    "optionA": "Ein Domänenname",
-    "optionB": "Etwas, das Menschen mit einem Browser anzeigen ",
-    "optionC": "Online-Speicherplatz für Website und Daten",
+    "question": "Was ist nodemon ?",
+    "optionA": "CLI-Dienstprogramm",
+    "optionB": "Ein Chat Liste im Internet",
+    "optionC": "Ein Mond im äusseren Sonnensystem",
     "optionD": "KEINE AHNUNG",
-    "answer": "Online-Speicherplatz für Website und Daten"
-  },
-
-  {
-    "question": "Was ist Webhosting?",
-    "optionA": "Ist PHP",
-    "optionB": "Ist CSS",
-    "optionC": "Ist HTML",
-    "optionD": "KEINE AHNUNG",
-    "answer": "Ist HTML"
+    "answer": "CLI-Dienstprogramm"
   }
 ]

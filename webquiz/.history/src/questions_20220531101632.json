@@ -156,21 +156,12 @@
     "optionA": "Ist <Lb>",
     "optionB": "Ist <br>",
     "optionC": "Break",
-    "optionD": "Keine Ahnung",
-    "answer": "Ist <br>"
+    "optionD": "Ist <br>",
+    "answer": "HTML"
   },
 
   {
-    "question": "Was ist Webhosting?",
-    "optionA": "Ein Domänenname",
-    "optionB": "Etwas, das Menschen mit einem Browser anzeigen ",
-    "optionC": "Online-Speicherplatz für Website und Daten",
-    "optionD": "KEINE AHNUNG",
-    "answer": "Online-Speicherplatz für Website und Daten"
-  },
-
-  {
-    "question": "Was ist Webhosting?",
+    "question": "Was ist die vorherrschende Sprache für Webseiten ?",
     "optionA": "Ist PHP",
     "optionB": "Ist CSS",
     "optionC": "Ist HTML",
